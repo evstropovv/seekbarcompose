@@ -1,8 +1,6 @@
 # Seekbar Compose
-Seekbar sample on Jetpack Compose 1.0.0-beta04
+Seekbar sample on Jetpack Compose 1.0.0-beta04. Written on Canvas.
 
-## About
-Written witch canvas on Jetpack Compose
 
 <img src="https://github.com/evstropovv/seekbarcompose/blob/main/photo/c741decc-926f-4c61-a0a7-59cc95861bee.jpeg" width="192">
 
